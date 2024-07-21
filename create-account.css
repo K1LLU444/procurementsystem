@@ -1,0 +1,449 @@
+.create-account-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: Xsmall;
+  align-items: center;
+  flex-direction: column;
+  height: 752px;
+}
+.create-account-allbong-l2oed-f-as-h8unsplash1 {
+  width: 100%;
+  height: 752px;
+}
+.create-account-footer {
+  width: 100%;
+  height: 109px;
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  border-color: #e64d4d;
+  border-style: hidden;
+  border-width: 5px;
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: 3px;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: #3e3d61;
+}
+.create-account-navlink {
+  display: contents;
+}
+.create-account-container1 {
+  top: 28px;
+  flex: 0 0 auto;
+  left: 669px;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #0c5cf7;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  text-decoration: none;
+}
+.create-account-text {
+  top: var(--dl-space-space-halfunit);
+  left: 58px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 16px;
+  align-self: center;
+}
+.create-account-navlink1 {
+  display: contents;
+}
+.create-account-container2 {
+  top: 28px;
+  flex: 0 0 auto;
+  left: 929px;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #0c5cf7;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  text-decoration: none;
+}
+.create-account-text1 {
+  top: var(--dl-space-space-halfunit);
+  left: 63px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 16px;
+  align-self: center;
+}
+.create-account-navlink2 {
+  display: contents;
+}
+.create-account-container3 {
+  top: 28px;
+  flex: 0 0 auto;
+  left: 405px;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: #0c5cf7;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  text-decoration: none;
+}
+.create-account-text2 {
+  top: var(--dl-space-space-halfunit);
+  left: 66px;
+  color: rgb(255, 255, 255);
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: center;
+}
+.create-account-box {
+  top: 85px;
+  left: 476px;
+  width: 578px;
+  height: 536px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.create-account-box1 {
+  top: 538px;
+  left: 800px;
+  width: 165px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.create-account-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 578px;
+  height: 533px;
+  position: absolute;
+  border-radius: 55px;
+}
+.create-account-text3 {
+  top: 105px;
+  left: 350px;
+  color: rgba(0, 68, 129, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  font-family: KoHo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.create-account-rectangle2 {
+  top: 112px;
+  left: 67px;
+  width: 287px;
+  height: 13px;
+  position: absolute;
+}
+.create-account-rectangle3 {
+  top: 112px;
+  left: 462px;
+  width: 54px;
+  height: 13px;
+  position: absolute;
+}
+.create-account-text5 {
+  top: 134px;
+  left: 221px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.create-account-line5 {
+  top: 179px;
+  left: 92px;
+  width: 156px;
+  height: 0px;
+  position: absolute;
+}
+.create-account-line6 {
+  top: 179px;
+  left: 330px;
+  width: 156px;
+  height: 0px;
+  position: absolute;
+}
+.create-account-rectangle4 {
+  top: 279px;
+  left: 66px;
+  width: 449px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.create-account-rectangle5 {
+  top: 338px;
+  left: 66px;
+  width: 449px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.create-account-rectangle6 {
+  top: 397px;
+  left: 66px;
+  width: 449px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.create-account-rectangle61 {
+  top: 220px;
+  left: 66px;
+  width: 449px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.create-account-rectangle62 {
+  top: 160px;
+  left: 67px;
+  width: 449px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+}
+.create-account-textinput {
+  top: 170px;
+  flex: 1;
+  left: 107px;
+  width: 390px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.create-account-textinput1 {
+  top: 255px;
+  flex: 1;
+  left: 107px;
+  width: 390px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.create-account-textinput2 {
+  top: 285px;
+  flex: 1;
+  left: 107px;
+  width: 390px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.create-account-textinput3 {
+  top: 300px;
+  flex: 1;
+  left: 107px;
+  width: 390px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.create-account-textinput4 {
+  top: 320px;
+  flex: 1;
+  left: 107px;
+  width: 390px;
+  position: absolute;
+  border-width: 0px;
+  background-color: transparent;
+}
+.create-account-tablericonlock {
+  top: 405px;
+  left: 77px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.create-account-buttonbutton {
+  left: 212px;
+  width: 158px;
+  bottom: 35px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.create-account-navlink3 {
+  display: contents;
+}
+.create-account-rectangle63 {
+  right: 235px;
+  width: 158px;
+  bottom: -15px;
+  height: 43px;
+  position: absolute;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.create-account-rectangle633 {
+  right: 0px;
+  width: 158px;
+  bottom: 3px;
+  height: 43px;
+  position: absolute;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.create-account-text6 {
+  top: 298px;
+  left: 44px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.create-account-text66 {
+  top: 12px;
+  left: 65px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.create-account-tablericonlock1 {
+  top: 346px;
+  left: 76px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.create-account-tablericonuser {
+  top: 228px;
+  left: 75px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.create-account-tablericonuser1 {
+  top: 167px;
+  left: 75px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.create-account-line7 {
+  top: 214px;
+  left: 107px;
+  width: 28px;
+  height: 0px;
+  position: absolute;
+}
+.create-account-line8 {
+  top: 268px;
+  left: 107px;
+  width: 28px;
+  height: 0px;
+  position: absolute;
+}
+.create-account-line9 {
+  top: 314px;
+  left: 107px;
+  width: 28px;
+  height: 0px;
+  position: absolute;
+}
+.create-account-text7 {
+  top: 20px;
+  left: 67px;
+  color: rgb(0, 68, 129);
+  width: 777px;
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.create-account-tablericonat {
+  top: 290px;
+  left: 79px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .create-account-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .create-account-footer {
+    padding: var(--dl-space-space-unit);
+    flex-direction: column;
+  }
+}
